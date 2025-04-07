@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin Çomoğlu</h1>
+<h1 align="center">Hello, I'm Emin Çomoğlu. Welcome to my GitHub page.</h1>
 <h3 align="center">A passionate backend developer from Türkiye. Im interested in Backend Development - Crafting scalable, secure, and efficient server-side applications. API Development – Designing and maintaining RESTful APIs with authentication and security best practices. - Database Optimization – Writing efficient queries, indexing strategies, and caching mechanisms. - Server & Deployment – Managing server infrastructure, Dockerized deployments, and CI/CD pipelines.</h3>
 
 <h3 align="left">Connect with me:</h3>
